@@ -1,1 +1,1 @@
-Pages 地址：<amakerlife.github.io/M-Timer>
+[amakerlife.github.io/M-Timer](Pages 地址)
